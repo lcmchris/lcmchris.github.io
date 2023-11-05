@@ -1,1 +1,5 @@
-<p>base</p>
+<script>
+  import { Header } from "../lib/components/Header";
+</script>
+
+<Header />
