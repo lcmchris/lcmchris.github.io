@@ -1,48 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
-		<meta name="viewport" content="width=device-width" />
-		
-		<link href="./_app/immutable/assets/0.6974090f.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/2.75fa880e.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.1d1ae5e0.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.e108d1fd.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.8541b37c.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.c54074e3.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.a4192956.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.ad5d9e1f.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.91e33938.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/2.54948900.js">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">  <main><header data-svelte-h="svelte-1mjnyju"><nav class="svelte-nievzf"><h1>Chris&#39; Log</h1> <a href="/about">About me</a></nav> </header> <main class="svelte-1rim4d"><h2 data-svelte-h="svelte-1n7m5ob">I like creating things. This is a log of all things I create.</h2> <p data-svelte-h="svelte-1lf1h84">List</p> <a href="/posts/test"><h3>Test</h3> </a></main> <footer data-svelte-h="svelte-thao90"><nav class="svelte-t660u3"> <a href="https://github.com/lcmchris"><img class="icon svelte-t660u3" src="/github-mark.svg" alt="GitHub"></a> <a href="mailto:lcmchristopher@gmail.com"><img class="icon svelte-t660u3" src="/email.svg" alt="Email"></a></nav> </footer> </main> 
-			
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" href="/favicon.png" />
+	<meta name="viewport" content="width=device-width" />
+	
+		<link rel="modulepreload" href="/_app/immutable/entry/start.83a2bbee.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/scheduler.e108d1fd.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/singletons.467dcf38.js">
+		<link rel="modulepreload" href="/_app/immutable/entry/app.98a535a2.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/preload-helper.a4192956.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/index.613304d3.js">
+</head>
+
+<body data-sveltekit-preload-data="hover">
+	<div style="display: contents; ">
 			<script>
 				{
-					__sveltekit_co982b = {
-						base: new URL(".", location).pathname.slice(0, -1),
+					__sveltekit_1et6z8d = {
+						base: "",
 						env: {}
 					};
 
 					const element = document.currentScript.parentElement;
 
-					const data = [null,null];
-
 					Promise.all([
-						import("./_app/immutable/entry/start.1d1ae5e0.js"),
-						import("./_app/immutable/entry/app.c54074e3.js")
+						import("/_app/immutable/entry/start.83a2bbee.js"),
+						import("/_app/immutable/entry/app.98a535a2.js")
 					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 2],
-							data,
-							form: null,
-							error: null
-						});
+						kit.start(app, element);
 					});
 				}
 			</script>
 		</div>
-	</body>
+</body>
+
 </html>
