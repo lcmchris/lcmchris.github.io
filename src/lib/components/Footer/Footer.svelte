@@ -20,10 +20,10 @@
   } */
   nav {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 1rem;
     align-items: center;
-    background-color: aquamarine;
+    background-color: var(--secondary);
     padding: 1rem;
   }
   .icon {
