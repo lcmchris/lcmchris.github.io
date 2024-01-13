@@ -1,0 +1,39 @@
+---
+title: "Is phycial writing still important in our generation?"
+description: "An anecdotal account of a native with zero writing skills"
+tags: Writing
+---
+
+# Context
+
+I was born an raised in Hong Kong for over 15 years and I would consider myself native in Cantonese. But if you ask me to physcially write Chinese characters in order to save a cute little puppy🐶, it would unfortunately not make it.
+
+Why is that? I can read, speak and listen to it perfectly fine. I've read the [Remembrance of Earth's Past Trilogy](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) and other books with no clear issues. So **why is the physical act of writing impossible for me?** This activity seems to require a different collection of memory, a different way of learning.
+
+A further argument is that since I can function in Chinese, maybe the physical act of writing it is a remenant of the past.
+
+# What is going on when I try to write Chinese characters?
+
+If I can say things, surely I can write them. This is what I do in Enlsih. You can tell in my tone that I take a very casual speaking-like tone when writing. However, When I take pen to paper with chinese, my mind goes totally blank and I can't even piece together a proper sentence.
+
+An **incorrect** analogy is forgetting how to spell a word in English. In English, by pronouncing the word I can probably fudge it and make it 90% there. In Chinese, its more like trying to do a life-like painting of a person you know. It's clear as day what this person looks like but when you start, you releasize all the deatil is not there. I often can start by trying to imagine reading the character on a book and attempt to replicate it. For most characters that I don't recall, my success rate would be <20%.
+
+The size of the gap of my reading versus my writing.
+
+An obvious reason is that Chinese is a logogram writing system. This is where writing is based on logos/symbols/characters and not based phonetically. This means knowing how to say a word has almost no bearing on how to write it. I say almost as there are usually 部首 that do guide pronounciation.
+
+# Is Typing the same as writing?
+
+I type using Pinyin. Pinyin is the phonetic conversion of a character constructed using the alphabet. Pinyin sprouted around the 50's and is taught around the world. There are other input methods using an array of differnet philosophiles like the order of strokes.
+
+> Using Pinyin's 2 has core strengths. 1/) I can sound the word out. 2/) I can use the keyboard assistance to read the potential options.
+
+**To me, writing is a way to communicate ideas to readers.**
+
+Whether I write those words or type those words doesn't seem too critical. I wouldn't write this article on paper first and then re-type it out, and the reader also wouldn't know/care.
+
+If the goal is to convey information to many people, typing might even be a more important skill of the language to learn. To further push this established premise, I tried learning Japanese for around 3 months. My teacher never once brought up teaching me how to write Kanji. It seemed to be a given that I would learn how to type instead.
+
+# Conclusion
+
+My final conclusion is that learning to physically write is no longer an important facet of languages. The design of prose and command of vocabulary is more vital to make good writing.

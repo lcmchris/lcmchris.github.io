@@ -1,15 +1,15 @@
 <script>
-    export let data;
+  export let data;
+  console.log(data);
 </script>
 
 <article>
-    <h1>{data.title}</h1>
-    <p>Published: {data.date}</p>
-    <svelte:component this={data.content} />
+  <h1>{data.title}</h1>
+  <svelte:component this={data.content} />
 </article>
 
 <style>
-    article {
-        padding: 1rem;
-    }
+  article {
+    padding: 1rem;
+  }
 </style>
