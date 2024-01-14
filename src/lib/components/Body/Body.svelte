@@ -10,7 +10,6 @@
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    padding: 1rem;
-    background-color: rgb(231, 222, 222);
+    padding: 2rem 1rem;
   }
 </style>

@@ -1,10 +1,9 @@
 <script>
   export let data;
-  console.log(data);
 </script>
 
 <article>
-  <h1>{data.title}</h1>
+  <h1 style="text-align:center; font-size:24px">{data.title}</h1>
   <svelte:component this={data.content} />
 </article>
 

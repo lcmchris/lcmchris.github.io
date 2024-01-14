@@ -14,5 +14,6 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
+    background-color: var(--secondary);
   }
 </style>

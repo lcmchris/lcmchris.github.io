@@ -3,12 +3,23 @@
     import { Header } from "$lib/components/Header";
 </script>
 
-<Header />
-<main>
-    <slot />
-</main>
+<div class="wrapper">
+    <Header />
+    <main class="main-blob">
+        <slot />
+    </main>
 
-<Footer />
+    <Footer />
+</div>
 
 <style>
+    .main-blob {
+        flex-grow: 1;
+        background-color: var(--primary);
+    }
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        height: 100dvh;
+    }
 </style>

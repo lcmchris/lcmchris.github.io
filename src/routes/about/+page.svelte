@@ -1,7 +1,11 @@
 <script>
     import { Timeline } from "$lib/components/Timeline";
+    import Body from "../../lib/components/Body/Body.svelte";
 </script>
 
-<main>
+<Body>
     <p>My current interests are programming, writing and art.</p>
-</main>
+</Body>
+
+<style>
+</style>
