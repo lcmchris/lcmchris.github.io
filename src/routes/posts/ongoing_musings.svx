@@ -5,24 +5,72 @@ tags: Writing
 
 # Random thoughts
 
-Is writing any language important in our generation?
+### Is writing any language important in our generation?✅
 
 - Fluency of language
 - Reading vs writing vs listening vs speaking
 - Writing versus typing
 - Can there be a universal language?
 
-How good is Feng shui 風水?
 
-- Is Feng shui based on good UX?
-- Who still uses feng shui?
+### ~~ How good is Feng shui 風水?~~
+- ~~Is Feng shui based on good UX?~~
+- ~~Who still uses feng shui?~~
 
-When did people start sleeping on their backs?
-
+### When did people start sleeping on their backs?✅
 - Invention of the pillow?
 
-Why is most programming languages english?
-Factfulness now?
+### Why is most programming languages english?
+- Information density of languages
+- History of programming
+- Exciting languages that uses different languages
+
+### Factfulness now?
+- Factfulness was an interesting book
+- How true has it been in the last ten years?
+- Will it stay try?
+
+### Experiment on waxy breakdown of garlic
+- Waxy breakdown of Garlic
+- Other types of garlic breakdown
+- Sets of experiments
+- Reproducibility?
+- Strains? - Putting my bio labskills to the test
+
+### My coding setup
+- OS
+    - WSL!
+    - Linux Mint!
+- Code Editor
+    - VSCode + extensions
+- Python Env Management
+    - Pyenv
+    - Poetry
+- Bash setup
+
+### The stagnation of Travelling
+- Travelling when young
+- Travelling when older
+- Travelling or vactioning
+
+### How to ideate?
+- Ideas that are fun
+- Ideas that make money
+
+### Anonymity or Named?
+- Github 
+- Blog
+- Skin in the game
+
+
+### Building a new typeface
+- How to create a typeface?
+- Introducing my own typeface
+
+### Information hierarchy
+- Spectrum of watching, listening, reading, speaking and writing.
+- Getting information to creating information
+
 
 # Fiction
 
