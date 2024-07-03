@@ -48,6 +48,12 @@ tags: Writing
     - Poetry
 - Bash setup
 
+### Baking AI / Receipes AI
+An AI taht generates new recipes
+
+### UK health labels
+What does the health labels mean, and why some has colours.
+
 ### The stagnation of Travelling
 - Travelling when young
 - Travelling when older
