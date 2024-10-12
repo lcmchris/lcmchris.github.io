@@ -1,6 +1,7 @@
 ---
 title: "My computer setup"
-tags: Writing
+tags: Projects
+last: 07-06-24
 ---
 
 To put things into context, my primary purposes for a computer is to program, watch videos and play video games. That's pretty much it and accounts for all I need a computer from.
@@ -35,32 +36,33 @@ There are many tools in
 - OS
     - WSL
     - Linux Mint!
-
-
+ 
 - Code Editor
     - VSCode + extensions
-- Python Env Management
+
+- Env Management
     - Pyenv
+    - Nvm
     - Poetry
-- Bash setup
+    - Pnpm
 
 # IDE
 I started out programming with Eclipse on the Oxygen release. I used the PyDev extension and was building a little Selenium application to automate some UI testing. I also tried out Atom to help write some python automation scripts. Both tools felt like they weren't providing me with a lot. They had poor ui and is limited to someone who just want's to build stuff.
 
 I started using VScode and its just much more beginner friendly, more multi-language friendly and has tons of community support. It now also works well with WSL (both being microsoft).
 
-
+Very recently, I've been inspired to learn Vim and started to use th VScodeVim extension. It's worked quite well so far and it is always nice to learn a new skill.
 
 ## Environment managers
-I primarily progra m
-Python is my main language to program in. Managing python versions is super annoying. A tool I've been using is Pyenv which allows you to switch python versions very easily.
+I primarily program in Python (AI) or Javascript (Apps).
 
-Poetry vs pip vs conda
+For python, one of the main issues when trying to access multiple different repos is the python version compatability. Later versions of python have features the old versions do not. Managing python versions is super annoying and installing all of them and switching between them is not easy out of the box. A tool I've been using is Pyenv which allows you to switch python versions very easily.
 
-Pnpm 
+For node, I use the equivalently helpful nvm tool.
 
-Pyenv for python control
+## Package managers
+The pacakge manager for python I use is Poetry. It provides version locking and venv handling. It's a pretty tried and tested tool. PDM is the new comer on the block but I have not tried it yet.
 
-Poetry for 
+For node, I use pnpm (a drop in for npm). 
+There's bun and yarn too to try but again I haven't done the work.
 
-## Environment test
