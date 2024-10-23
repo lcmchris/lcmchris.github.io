@@ -1,7 +1,8 @@
 ---
 title: "Alpha catan: AI from the ground up"
 description: "My journey on building an AI from scratch."
-tags: Writing
+tags: Projects
+last: 23-10-24
 ---
 
 # Building an AI
