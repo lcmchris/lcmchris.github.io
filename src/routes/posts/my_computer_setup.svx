@@ -1,7 +1,9 @@
 ---
 title: "My computer setup"
 tags: Projects
-last: 07-06-24
+first: 2024-06-07
+last: 2024-06-07
+uuid: 1e58db27-cd15-4b85-936e-69b94aa8243c
 ---
 
 To put things into context, my primary purposes for a computer is to program, watch videos and play video games. That's pretty much it and accounts for all I need a computer from.
@@ -11,17 +13,20 @@ I prefer a setup with minimal fuss and can be flexible enough to adapt to either
 In this post I aim to cover a few of the choices I've made and why I've made them.
 
 ## My hardware
+
 Currently in my disposable are:
+
 - PC [specs](https://uk.pcpartpicker.com/list/6pc9MV)
 - Laptop [specs](https://www.asus.com/laptops/for-home/vivobook/vivobook-s14-s410/techspec/)
 - Work Laptop
 
 ### OS
+
 I've been a long time user of Windows but am always aware of possible benefits of switching to Linux/Mac Os. As I don't have money to kill, Mac was always out of the question. There are also potential drawbacks mainly because there will be games that are only compatible with Windows.
 
 For linux, there is much better support for development tools. Tools like pyenv, bash, docker, just work natively. Even just base path manipulation is much easier without [weird windows paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/).
 
-There is the possibility to [dual boot](https://en.wikipedia.org/wiki/Multi-booting) but that seems like pain to manage. 
+There is the possibility to [dual boot](https://en.wikipedia.org/wiki/Multi-booting) but that seems like pain to manage.
 
 To mitigate it, WSL looks to be the best of both worlds. It's support looks to be a priority for microsoft and there's been consistent releases and good guides on getting setup.
 
@@ -31,22 +36,25 @@ Gotchas. WSL can be slow, uses loads of memory and sometimes freezes.
 
 For my personal laptop, I'm somewhat limited by the hardware. It's been use for 6 years now and the battery is dropping off. Everything performs slow on that laptop making it hardly productive. I only use it when I go to a cafe to write or program (so no games). To breath some new life into it, I decided to install linux mint onto it. It's been much more responsive and the battery life seems to be better (probably due to the wipe not the os).
 
-There are many tools in 
+There are many tools in
 
 - OS
-    - WSL
-    - Linux Mint!
- 
+
+  - WSL
+  - Linux Mint!
+
 - Code Editor
-    - VSCode + extensions
+
+  - VSCode + extensions
 
 - Env Management
-    - Pyenv
-    - Nvm
-    - Poetry
-    - Pnpm
+  - Pyenv
+  - Nvm
+  - Poetry
+  - Pnpm
 
 # IDE
+
 I started out programming with Eclipse on the Oxygen release. I used the PyDev extension and was building a little Selenium application to automate some UI testing. I also tried out Atom to help write some python automation scripts. Both tools felt like they weren't providing me with a lot. They had poor ui and is limited to someone who just want's to build stuff.
 
 I started using VScode and its just much more beginner friendly, more multi-language friendly and has tons of community support. It now also works well with WSL (both being microsoft).
@@ -54,6 +62,7 @@ I started using VScode and its just much more beginner friendly, more multi-lang
 Very recently, I've been inspired to learn Vim and started to use th VScodeVim extension. It's worked quite well so far and it is always nice to learn a new skill.
 
 ## Environment managers
+
 I primarily program in Python (AI) or Javascript (Apps).
 
 For python, one of the main issues when trying to access multiple different repos is the python version compatability. Later versions of python have features the old versions do not. Managing python versions is super annoying and installing all of them and switching between them is not easy out of the box. A tool I've been using is Pyenv which allows you to switch python versions very easily.
@@ -61,8 +70,8 @@ For python, one of the main issues when trying to access multiple different repo
 For node, I use the equivalently helpful nvm tool.
 
 ## Package managers
+
 The pacakge manager for python I use is Poetry. It provides version locking and venv handling. It's a pretty tried and tested tool. PDM is the new comer on the block but I have not tried it yet.
 
-For node, I use pnpm (a drop in for npm). 
+For node, I use pnpm (a drop in for npm).
 There's bun and yarn too to try but again I haven't done the work.
-

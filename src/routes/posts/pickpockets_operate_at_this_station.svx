@@ -2,6 +2,9 @@
 title: "Pickpockets operate at this station."
 description: "A short diagnosis of the tube's messaging."
 tags: Writing
+first: 2024-01-01
+last: 2024-01-01
+uuid: a061460f-44fc-4e76-9c47-7ef02b5e9c33
 ---
 
 This phrase is played across London tube stations. The nonchalant and robotic tone of the broadcast sounds as though the pickpocketers simply work at the station. In line with the "See it, say it and sort it" and "No Staring" posters, it brings a looming inevitability that hooliganism is always by our side.

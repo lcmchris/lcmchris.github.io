@@ -2,9 +2,12 @@
 title: "Are beds just a capatilist"
 description: "A discovery piece on why we sleep in beds."
 tags: Writing
+first: 2024-12-01
+last: 2024-12-01
+uuid: 814f4841-e63d-46a7-9cf1-01e473970879
 ---
 
-Sleeping is a large part of our lives. It accounts for a third of our time on earth (albeit being unconscious). Sleep enables us to rest our muscles, removes toxins from our brain and retains memories. It's essential to intelligent life and almost all animals sleep. This technique of recovery requires no training and is essential to our young. Although the origins of sleep and dreams are still a mystery in the evolution timeline, there little doubt of its importance. 
+Sleeping is a large part of our lives. It accounts for a third of our time on earth (albeit being unconscious). Sleep enables us to rest our muscles, removes toxins from our brain and retains memories. It's essential to intelligent life and almost all animals sleep. This technique of recovery requires no training and is essential to our young. Although the origins of sleep and dreams are still a mystery in the evolution timeline, there little doubt of its importance.
 
 Personally as a ploy to improve my sleep, I've tried in the past to adapt my sleep as close to what our ancestors did. This meant [polyastic sleep](https://en.wikipedia.org/wiki/Polyphasic_sleep). It never worked for me as it rarely fitted the reality of an 9-6 job.
 
@@ -14,9 +17,9 @@ But .. what if ... I trade my soft bed for a hard surface?
 
 ### Different types of sleeping positions
 
-Before looking too deeply into beds, let's take a detour on how we sleep. There are different types of sleeping positions. 
+Before looking too deeply into beds, let's take a detour on how we sleep. There are different types of sleeping positions.
 
-Some sleep on their back (supine like me) and some sleep on their side. There are also those out there that sleep on their front. These positions seem to come from habit and are ingrained into how we sleep. Though most people stick to one position at the start of their sleep, we [tend to move about](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677378/). A common treatment to enforce side sleeping is through a [tennis ball](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2762713/) (to stop you from rolling) but the compliance is low. 
+Some sleep on their back (supine like me) and some sleep on their side. There are also those out there that sleep on their front. These positions seem to come from habit and are ingrained into how we sleep. Though most people stick to one position at the start of their sleep, we [tend to move about](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677378/). A common treatment to enforce side sleeping is through a [tennis ball](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2762713/) (to stop you from rolling) but the compliance is low.
 
 Is there a right way to sleep then? The research points out that most people (54%) sleep on the side but correlation vs causation of sleep quality and position is less understood. The main studies I found have small samples 30.
 
@@ -42,8 +45,8 @@ A separate angle of attack is to look at our animals. Dog for example sleeps fin
 
 This shows a support for not needing to have beds. However, in the same vein, most animals don't wear clothes and those seem to be quite helpful against the cold. Tools define the man and the bed could be an impactful one.
 
-There's evidence that our sleep is different and much [deeper than our close ancestors](https://onlinelibrary.wiley.com/doi/10.1002/evan.21464). We sleep less and have better intellect. This points to be a 
-
+There's evidence that our sleep is different and much [deeper than our close ancestors](https://onlinelibrary.wiley.com/doi/10.1002/evan.21464). We sleep less and have better intellect. This points to be a
 
 ### Conclusion
-The wider spread of beds 
+
+The wider spread of beds

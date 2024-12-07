@@ -1,11 +1,13 @@
 ---
-title: "Waxy breakdown of garlic. Experiment desing"
+title: "Waxy breakdown of garlic and experimental design."
 tags: Writing
-last: 07-06-24
+first: 2024-10-07
+last: 2024-12-07
+uuid: 66a13e1d-97b0-4cbb-bdb6-a9574e7163ed
 ---
 
-[Waxy breakdown](https://bpp.oregonstate.edu/sites/agscid7/files/bpp/attachments/waxy-breakdown-of-garlic-feb-7-mlp.pdf) of garlic is a phenomenon where garlic can go translucent and yellow. The pyruvic acid levels of the garlic also reduces, lowering its pugency and has a softer texture. 
-It's considered a disease? but 
+[Waxy breakdown](https://bpp.oregonstate.edu/sites/agscid7/files/bpp/attachments/waxy-breakdown-of-garlic-feb-7-mlp.pdf) of garlic is a phenomenon where garlic can go translucent and yellow. The pyruvic acid levels of the garlic also reduces, lowering its pugency and has a softer texture.
+It's considered a disease? but
 It's different to black garlic which is fermented.
 
 I've had it happen a few times to my stash of garlic. I was initially weary about using it as it look's off, but once I did, I really enjoyed it. It's taste is much more mellow letting me use it more sparingly. The softer texture also makes it smearable allowing it to be easily added to a marinade or paste.
@@ -22,11 +24,82 @@ Sunlight
 Closed container?
 Salt?
 Sugar?
+Peeled vs Blubs vs untouched
 
 Proxy setup:
 I unfortunately do not have precise temperature or humidity guages, nore have thav con trols for them. In their stead I'm using situations that are common in my hosue.
 
+- China(orange) - Spain(blue)
+- Fridge/Cabinent/Sun
+- Bagged/left out
+- Broken - Bulb
+
+**Cabinent**
+China - Cabinent - Out - Bulb
+China - Cabinent - Bagged - Broken
+China - Cabinent - Bagged - Bulb
+
+Spain - Cabinent - Bagged - Broken
+Spain - Cabinent - Out - Broken
+Spain - Cabinent - Out - Bulb
+
+**Sun**
+China - Sun - Out - Bulb
+China - Sun - Bagged - Broken
+China - Sun - Out - Broken
+
+Spain - Sun - Out - Bulb
+Spain - Sun - Bagged - Broken
+Spain - Sun - Out - Broken
+
+**Fridge**
+China - Fridge - Out - Bulb
+China - Fridge - Bagged - Broken
+China - Fridge - Out - Broken
+
+Spain - Fridge - Bagged - Bulb
+Spain - Fridge - Bagged - Broken
+
+## As of 21-11-2024
+
+**Cabinent**
+China - Cabinent - Out - Bulb
+China - Cabinent - Bagged - Broken
+China - Cabinent - Bagged - Bulb
+
+Spain - Cabinent - Bagged - Broken - 1/10
+Spain - Cabinent - Out - Broken
+Spain - Cabinent - Out - Bulb
+
+**Sun**
+China - Sun - Out - Bulb
+China - Sun - Bagged - Broken
+China - Sun - Out - Broken
+
+Spain - Sun - Out - Bulb
+Spain - Sun - Bagged - Broken
+Spain - Sun - Out - Broken
+
+**Fridge**
+China - Fridge - Out - Bulb
+China - Fridge - Bagged - Broken
+China - Fridge - Out - Broken
+
+Spain - Fridge - Bagged - Bulb
+Spain - Fridge - Bagged - Broken
+
+## As of 03-12-2024
+
+no change
+
+## As of 06-12-2024
+
+no change
+
+## As of 21-11-2024
+
 ## Design of expeirments
+
 I currently work at a bio-tech startup and a statistical approach to analyse variation based on factors is through Design of Experiments (DOE).
 
 ### What is DOE?
@@ -38,9 +111,11 @@ Im it he decides making 8 teas is good, 4 with milk first and 4 with milk second
 All possible combinations of these 8 are 70. Based on pure chance, getting it all right has one possible combination. This sets the experiment with signifcance level of 1/70.
 
 ### Why DOE?
+
 Experiments are expensive. As a sciencitist you would like to conduct the least amount while preserving reliability and information space that it provides. Leveraging statistics help define how confident you can be and optimise for certain factors to test.
 
 ### How does DOE work?
+
 One can extend the above to more factors and even analyse [confounding factors](https://en.wikipedia.org/wiki/Confounding). The search/test space gets exponentially greater as you will need to test much more combinations.
 
 Factors also have levels and their relationships can also be non-linear.
@@ -48,9 +123,6 @@ Factors also have levels and their relationships can also be non-linear.
 Temp
 Humidity
 
-
-
 Implementing DOE in our experiment.
-
 
 https://www.ipt.us.com/produce-inspection-resources/inspectors-blog/defect-identification/garlic-waxy-breakdown

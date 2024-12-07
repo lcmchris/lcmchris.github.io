@@ -2,6 +2,9 @@
 title: "Is physical writing still important in our generation?"
 description: "An anecdotal account of a native speaking skills with zero writing skills"
 tags: Writing
+first: 2024-01-01
+last: 2024-01-01
+uuid: ac18f743-ad33-457a-b42c-643deac4642c
 ---
 
 # Context

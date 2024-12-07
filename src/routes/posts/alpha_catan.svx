@@ -2,7 +2,9 @@
 title: "Alpha catan: AI from the ground up"
 description: "My journey on building an AI from scratch."
 tags: Projects
-last: 23-10-24
+first: 2024-10-23
+last: 2024-10-23
+uuid: c2ad9ee8-5ed8-478f-b2c1-0a5c55857d20
 ---
 
 # Building an AI
