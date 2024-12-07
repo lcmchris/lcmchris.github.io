@@ -4,7 +4,7 @@
 <id>https://lcmchris.github.io</id>
 <link rel="alternate" href="https://lcmchris.github.io/"/>
 <link rel="self" href="https://lcmchris.github.io/rss"/>
-<updated>2024-12-07T18:02:39.023Z</updated>
+<updated>2024-12-07T18:09:55.584Z</updated>
 <author>
 <name>Chris L</name>
 </author>
@@ -108,10 +108,10 @@ There’s bun and yarn too to try but again I haven’t done the work.</p></cont
 <entry>
 <title>test post</title>
 <link rel="alternate" type="text/html" href="https://lcmchris.github.io/posts/test_new_page"/>
-<id>lcmchris::testId123123</id>
+<id>lcmchris::0448aec1-e363-478e-b312-acfb979db13e</id>
 <published>2024-12-07T00:00:00.000Z</published>
 <updated>2024-12-07T00:00:00.000Z</updated>
-<content type="html"><p data-svelte-h="svelte-qh3hqu">Test post</p></content>
+<content type="html"><h1 data-svelte-h="svelte-15s9ujo">Test post</h1> <p data-svelte-h="svelte-13eeiac">This is a test post!</p></content>
 </entry>
 <entry>
 <title>Waxy breakdown of garlic. Experiment desing</title>
