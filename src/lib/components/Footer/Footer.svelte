@@ -10,6 +10,10 @@
     <a href="mailto:lcmchristopher@gmail.com">
       <img class="icon" src="/email.svg" alt="Email" />
     </a>
+    <a href="/rss.xml">RSS</a>
+    <a href="https://follow.it/chris-l-s-blog-about-things?leanpub"
+      >Subscribe via Email</a
+    >
   </nav>
 </footer>
 

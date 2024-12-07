@@ -15,6 +15,8 @@
   }
 </script>
 
+<meta name="follow.it-verification-code" content="VRngwq1dr6ssa0NYgMEG" />
+
 <Body>
   <h2>
     I like creating things. This is a log of all things I create and muse.
@@ -39,6 +41,3 @@
     {/if}
   {/each}
 </Body>
-
-<style>
-</style>

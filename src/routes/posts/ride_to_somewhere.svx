@@ -1,6 +1,9 @@
 ---
 title: "Ride to somewhere"
 tags: Writing
+first: 2024-01-01
+last: 2024-01-01
+uuid: 64abf349-2dd9-4926-8b5a-958ca1976b58
 ---
 
 # Ride to somewhere

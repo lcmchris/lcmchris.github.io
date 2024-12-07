@@ -1,6 +1,9 @@
 ---
 title: "Ongoing musings"
 tags: Writing
+first: 2024-01-01
+last: 2024-12-01
+uuid: 0a9ba45c-c584-46d5-b76f-a729bb67e6cc
 ---
 
 # Random thoughts
@@ -12,25 +15,29 @@ tags: Writing
 - Writing versus typing
 - Can there be a universal language?
 
-
 ### ~~ How good is Feng shui 風水?~~
+
 - ~~Is Feng shui based on good UX?~~
 - ~~Who still uses feng shui?~~
 
 ### When did people start sleeping on their backs?✅
+
 - Invention of the pillow?
 
 ### Why is most programming languages english?
+
 - Information density of languages
 - History of programming
 - Exciting languages that uses different languages
 
 ### Factfulness now?
+
 - Factfulness was an interesting book
 - How true has it been in the last ten years?
 - Will it stay try?
 
 ### Experiment on waxy breakdown of garlic
+
 - Waxy breakdown of Garlic
 - Other types of garlic breakdown
 - Sets of experiments
@@ -38,45 +45,51 @@ tags: Writing
 - Strains? - Putting my bio labskills to the test
 
 ### My coding setup
+
 - OS
-    - WSL!
-    - Linux Mint!
+  - WSL!
+  - Linux Mint!
 - Code Editor
-    - VSCode + extensions
+  - VSCode + extensions
 - Python Env Management
-    - Pyenv
-    - Poetry
+  - Pyenv
+  - Poetry
 - Bash setup
 
 ### Baking AI / Receipes AI
+
 An AI taht generates new recipes
 
 ### UK health labels
+
 What does the health labels mean, and why some has colours.
 
 ### The stagnation of Travelling
+
 - Travelling when young
 - Travelling when older
 - Travelling or vactioning
 
 ### How to ideate?
+
 - Ideas that are fun
 - Ideas that make money
 
 ### Anonymity or Named?
-- Github 
+
+- Github
 - Blog
 - Skin in the game
 
-
 ### Building a new typeface
+
 - How to create a typeface?
 - Introducing my own typeface
 
 ### Information hierarchy
+
 - Spectrum of watching, listening, reading, speaking and writing.
 - Getting information to creating information
-
 
 # Fiction
 
