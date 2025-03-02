@@ -22,6 +22,7 @@ export const GET = async () => {
 		})
 	);		
 
+	allPosts.sort((a,b) => new Date(b.meta.first) - new Date(a.meta.first)  )
   const body = render(allPosts);
   const headers = {
     'Cache-Control': `max-age=0, s-max-age=${600}`,
@@ -47,7 +48,7 @@ ${posts
 (post) => `<entry>
 <title>${post.meta.title}</title>
 <link rel="alternate" type="text/html" href="https://lcmchris.github.io/posts/${post.path}"/>
-<id>urn:uuid:${post.meta.uuid}</id>
+<id>https://lcmchris.github.io/posts/${post.path}</id>
 <published>${new Date(post.meta.first).toISOString()}</published>
 <updated>${new Date(post.meta.last).toISOString()}</updated>
 <content type="html"><![CDATA[${post.content}]]></content>
