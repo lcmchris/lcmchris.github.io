@@ -16,6 +16,34 @@ It's described as a defect by some sources but I didn't really find any fault in
 
 What really interests me is that although Garlic is a main seasoning in a chef's arsenal, there is relatively little research on how and why it develops.
 
+## Design of expeirments
+
+I currently work at a bio-tech startup and a statistical approach to analyse variation based on factors is through Design of Experiments (DOE).
+
+### What is DOE?
+
+A famous example of DOE is the [lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea) experiment done by Ronald Fischer. In it, Ronald faces a lady who proposes she can tell the difference of if [milk is poured first or tea is poured first](https://www.youtube.com/watch?v=InWGdojtWys).
+
+To test this claim, Ronald devised the null hypothesis that she cannot determine between the two. He then asks what is the minimum about of tests to conduct to be confident enough for.
+Im it he decides making 8 teas is good, 4 with milk first and 4 with milk second. Why 8?
+All possible combinations of these 8 are 70. Based on pure chance, getting it all right has one possible combination. This sets the experiment with signifcance level of 1/70.
+
+### Why DOE?
+
+Experiments are expensive. As a sciencitist you would like to conduct the least amount while preserving reliability and information space that it provides. Leveraging statistics help define how confident you can be and optimise for certain factors to test.
+
+### How does DOE work?
+
+One can extend the above to more factors and even analyse [confounding factors](https://en.wikipedia.org/wiki/Confounding). The search/test space gets exponentially greater as you will need to test much more combinations.
+
+Factors also have levels and their relationships can also be non-linear.
+
+Temp
+Humidity
+
+Implementing DOE in our experiment.
+
+https://www.ipt.us.com/produce-inspection-resources/inspectors-blog/defect-identification/garlic-waxy-breakdown
 Variables:
 Heat
 Humidity
@@ -124,31 +152,6 @@ China - Fridge - Out - Broken - 11 no change
 Spain - Fridge - Bagged - Bulb - fully rotten
 Spain - Fridge - Bagged - Broken - 7 sprouted, 2 rotten
 
-## Design of expeirments
+## Summary
 
-I currently work at a bio-tech startup and a statistical approach to analyse variation based on factors is through Design of Experiments (DOE).
-
-### What is DOE?
-
-A famous example of DOE is the [lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea) experiment done by Ronald Fischer. In it, Ronald faces a lady who proposes she can tell the difference of if [milk is poured first or tea is poured first](https://www.youtube.com/watch?v=InWGdojtWys).
-
-To test this claim, Ronald devised the null hypothesis that she cannot determine between the two. He then asks what is the minimum about of tests to conduct to be confident enough for.
-Im it he decides making 8 teas is good, 4 with milk first and 4 with milk second. Why 8?
-All possible combinations of these 8 are 70. Based on pure chance, getting it all right has one possible combination. This sets the experiment with signifcance level of 1/70.
-
-### Why DOE?
-
-Experiments are expensive. As a sciencitist you would like to conduct the least amount while preserving reliability and information space that it provides. Leveraging statistics help define how confident you can be and optimise for certain factors to test.
-
-### How does DOE work?
-
-One can extend the above to more factors and even analyse [confounding factors](https://en.wikipedia.org/wiki/Confounding). The search/test space gets exponentially greater as you will need to test much more combinations.
-
-Factors also have levels and their relationships can also be non-linear.
-
-Temp
-Humidity
-
-Implementing DOE in our experiment.
-
-https://www.ipt.us.com/produce-inspection-resources/inspectors-blog/defect-identification/garlic-waxy-breakdown
+There was literally only one garlic that changed to the desired waxy form so it's hard to have any conclusions. I have done this in the past and got much higher success rate so it could really be determined by the batch of garlic.
