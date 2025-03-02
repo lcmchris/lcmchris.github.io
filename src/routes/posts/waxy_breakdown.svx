@@ -96,7 +96,33 @@ no change
 
 no change
 
-## As of 21-11-2024
+# Final 06-01-2024
+
+**Cabinent**
+China - Cabinent - Out - Bulb - 9 no change
+China - Cabinent - Bagged - Broken -6 no chang
+China - Cabinent - Bagged - Bulb - 1 sprouted, 1 rotten, 11 no change
+
+Spain - Cabinent - Bagged - Broken - 1 success! 10 no change.
+Spain - Cabinent - Out - Broken - 9 no change
+Spain - Cabinent - Out - Bulb - 7 no change, 1 sprouted
+
+**Sun**
+China - Sun - Out - Bulb - 1 sprouted, 10 no change
+China - Sun - Bagged - Broken - 11 no change
+China - Sun - Out - Broken - 9 no change
+
+Spain - Sun - Out - Bulb - 1 sprouted, 9 no change
+Spain - Sun - Bagged - Broken - 2 weird ones with babies, 9 no change
+Spain - Sun - Out - Broken -2 sprouted, 8 no change
+
+**Fridge**
+China - Fridge - Out - Bulb - 9 sprouted, 3 no change
+China - Fridge - Bagged - Broken - 8 sprouted, 1 no change
+China - Fridge - Out - Broken - 11 no change
+
+Spain - Fridge - Bagged - Bulb - fully rotten
+Spain - Fridge - Bagged - Broken - 7 sprouted, 2 rotten
 
 ## Design of expeirments
 

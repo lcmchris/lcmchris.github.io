@@ -3,15 +3,18 @@
   import { Button } from "$lib/components/Button";
   export let data;
 
-  let filter = data.allTags;
+  let filter = [];
   function tagFilter(tags) {
-    console.log(tags);
-    if (filter.indexOf(tags) == -1) {
+    const idx = filter.indexOf(tags);
+
+    if (idx) {
       filter.push(tags);
       filter = filter;
     } else {
-      filter = filter.filter((tag) => tag != tags);
+      filter.splice(idx, 1);
+      filter = filter;
     }
+    console.log(idx, tags, filter);
   }
 </script>
 
@@ -30,13 +33,17 @@
   </div>
 
   {#each data.allPosts as post}
-    {#if !filter.includes(post.tags)}
+    {#if filter.length == 0 || filter.includes(post.tags)}
       <div style="display: flex; gap:10px;">
         <h4>{post.tags}</h4>
 
         <a href={post.path}>
           <h3>{post.meta.title}</h3>
         </a>
+
+        <h3 style="">
+          {new Date(post.meta.first).toLocaleDateString()}
+        </h3>
       </div>
     {/if}
   {/each}

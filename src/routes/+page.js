@@ -17,6 +17,7 @@ export const load = async ({fetch}) => {
 			};
 		})
 	);
+	allPosts.sort((a,b) => new Date(b.meta.first) - new Date(a.meta.first)  )
     const allTags = allPosts.reduce((acc, post) => {
 			if (!acc.includes(post.tags)) {
 				acc.push(post.tags);
