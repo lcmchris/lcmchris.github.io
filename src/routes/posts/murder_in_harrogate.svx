@@ -1,6 +1,6 @@
 ---
 title: "Review: Murder in Harrogate"
-tags: Books
+tags: Commentary
 first: 2025-03-02
 last: 2025-03-02
 uuid: 646f68aa-2a81-4f85-8ac4-eca963c204a4

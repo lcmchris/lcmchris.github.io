@@ -1,6 +1,6 @@
 ---
 title: "Review: A town called solace by Mary Lawson"
-tags: Books
+tags: Commentary
 first: 2025-03-02
 last: 2025-03-02
 uuid: d5593217-de99-4fc2-b80c-003596a25e10
