@@ -67,8 +67,9 @@ Transitional Apps - Coined by Rich Harris this is essentially combining all the 
 This was particularly hard for me to understand. I think the point I had to get over is that the term rendering here means the process to make the webpage show the correct initial html. Nothing more. All subsequent handling and dynamic content is still done via js.
 
 Routing:
+
 - Server-side routing. The default behaviour where each route reloads the whole html.
-- Client-side routing. Redirection (link, forward and back) is intercepted and handled on client side. Faster without full reload. 
+- Client-side routing. Redirection (link, forward and back) is intercepted and handled on client side. Faster without full reload.
 
 ## Frontend Infrastructure
 
