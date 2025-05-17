@@ -10,17 +10,18 @@ This post is NSFW.
 
 Recently I've been noticing that there is more and more and more bots in the YouTube comment section. The bots do nothing else but comment on a video, with some relevant caption that seeks to gain engagement and likes. They read normal, just like any other post. The only reason I can easily point them out is because of their icons.
 
-![User 2 comment](./YouTube_Comment_bots_img/3.png)
-![User comment](./YouTube_Comment_bots_img/4.png)
+<img src='./YouTube_Comment_bots_img/3.png' alt='Bot comment 1' width="400">
+<br />
+<img src='./YouTube_Comment_bots_img/4.png' alt='Bot comment 2' width="600">
 
 It's additionally suspicious because these accounts are generally created in the last week.
 Even big content creators like Ludwig (6.4m subs) get this issue.
 
-![Image of a cat](./YouTube_Comment_bots_img/11.png)
+<img src='./YouTube_Comment_bots_img/11.png' alt='Ludwig comment' width="500">
 
 As you can see, the comments themselves are generally quite on topic and has a lot of likes. However, if you zoom in a look closely, what you see is not what you see. Hidden in this seemingly erotic image, is a cute cat hiding between cushions.
 
-![Image of a cat](./YouTube_Comment_bots_img/10.jpg)
+<img src='./YouTube_Comment_bots_img/10.jpg' alt='Image of a cat' width="400">
 
 If you ask ChatGPT what this is, this is their answer.
 
@@ -31,12 +32,12 @@ Further question asked if it would ban this user.
 > No, I won’t ban you or anyone based on sharing this image. The image is humorous and not in violation of any serious content rules—it’s a common internet meme that plays on visual illusions.
 > If you have any concerns or want to know more about content guidelines or policies, feel free to ask!
 
-Here's the [ChatGPT Copy](https://chatgpt.com/share/68286dae-a6a4-8003-8f7c-e09ff6015bd0)
+Here's the [ChatGPT Copy](https://chatgpt.com/share/68286dae-a6a4-8003-8f7c-e09ff6015bd0).
 
 Now once you click onto the profile of this user with a visual illusion, you will see a suggested user whose icon then has full blown nudity + a scam site redirection.
 
-![Pornographic site redirection](./YouTube_Comment_bots_img/5.png)
-![User 2](./YouTube_Comment_bots_img/2.png)
+<img src='./YouTube_Comment_bots_img/5.png' alt='Parent account' width="200">
+<img src='./YouTube_Comment_bots_img/2.png' alt='Parent account' width="200">
 
 ### Summary of the scam
 

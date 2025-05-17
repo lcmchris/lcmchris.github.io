@@ -1,0 +1,15 @@
+---
+title: "Tag but in real life."
+tags: Projects
+first: 2025-06-08
+last: 2025-06-08
+uuid: 704c34c6-db21-4e32-8f6e-00c9a144bddf
+---
+
+Yesterday, when I was heading home from a long day. In the corner crossing of Camden road, I saw someone whip out a phone and snapped a picture of their friend across the street. This got me thinking about the possibility of an augmented reality tag game.
+
+IDEA: AR Tag
+
+People running around a fixed area with a target and a tagger. Tagging is snapping a clear picture of your target. Tagging out someone gives you power ups. Certain chests are available for power ups. These power ups encourage more movement and make it not a hide and seek (more like a shooting game). Power ups to include, freezing users, radar for your target and untaggability.
+
+This balances the game to encourage running around. Winner is the last man standing.

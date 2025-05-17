@@ -1,28 +1,25 @@
 import { vitePreprocess } from "@sveltejs/kit/vite";
-import { mdsvex } from 'mdsvex';
+import { mdsvex } from "mdsvex";
+import relativeImages from "mdsvex-relative-images";
 
-import adapter from '@sveltejs/adapter-static';
+import adapter from "@sveltejs/adapter-static";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   kit: {
-    adapter: adapter(
-      { 
-        
-        fallback: '404.html',
-        pages: 'build',
-			assets: 'build',
-			precompress: false,
-			strict: true
-    }
-      
-    ),
+    adapter: adapter({
+      fallback: "404.html",
+      pages: "build",
+      assets: "build",
+      precompress: false,
+      strict: true,
+    }),
   },
-  extensions: ['.svelte', '.svx'],
+  extensions: [".svelte", ".svx"],
 
   preprocess: [
     vitePreprocess({}),
-    mdsvex({ extensions: ['.svx'] })
+    mdsvex({ extensions: [".svx"], remarkPlugins: [relativeImages] }),
   ],
 };
 
