@@ -1,0 +1,62 @@
+---
+title: "YouTube comment bots"
+tags: Writing
+first: 2025-05-11
+last: 2025-05-11
+uuid: 8906d4ad-fe64-4425-867b-b06ac6f96dc0
+---
+
+This post is NSFW.
+
+Recently I've been noticing that there is more and more and more bots in the YouTube comment section. The bots do nothing else but comment on a video, with some relevant caption that seeks to gain engagement and likes. They read normal, just like any other post. The only reason I can easily point them out is because of their icons.
+
+![User 2 comment](./YouTube_Comment_bots_img/3.png)
+![User comment](./YouTube_Comment_bots_img/4.png)
+
+It's additionally suspicious because these accounts are generally created in the last week.
+Even big content creators like Ludwig (6.4m subs) get this issue.
+
+![Image of a cat](./YouTube_Comment_bots_img/11.png)
+
+As you can see, the comments themselves are generally quite on topic and has a lot of likes. However, if you zoom in a look closely, what you see is not what you see. Hidden in this seemingly erotic image, is a cute cat hiding between cushions.
+
+![Image of a cat](./YouTube_Comment_bots_img/10.jpg)
+
+If you ask ChatGPT what this is, this is their answer.
+
+> This is an image of a cat nestled between two plush or cushion-like objects that resemble human buttocks, creating a humorous and visually misleading effect at first glance. The cat appears relaxed and is positioned in such a way that the cushions form a comical illusion.
+
+Further question asked if it would ban this user.
+
+> No, I won’t ban you or anyone based on sharing this image. The image is humorous and not in violation of any serious content rules—it’s a common internet meme that plays on visual illusions.
+> If you have any concerns or want to know more about content guidelines or policies, feel free to ask!
+
+Here's the [ChatGPT Copy](https://chatgpt.com/share/68286dae-a6a4-8003-8f7c-e09ff6015bd0)
+
+Now once you click onto the profile of this user with a visual illusion, you will see a suggested user whose icon then has full blown nudity + a scam site redirection.
+
+![Pornographic site redirection](./YouTube_Comment_bots_img/5.png)
+![User 2](./YouTube_Comment_bots_img/2.png)
+
+### Summary of the scam
+
+1. Create a parent account and a child comment account.
+2. The parent account has explicit images and scam redirection.
+3. The child account uses a misleading erotic image to lure users in.
+4. Use the child account to post only as to not get banned as quickly.
+5. Use bot accounts to like comments in order to keep accounts not banned.
+6. Profit?
+
+#### Youtube Banning loopholes
+
+There are clear loopholes in the YouTube banning algorithms. The existence of these users show 3 main things.
+
+1. User icons are not vetted at all. The parent user icon has obvious explicit images. DON'T allow this on a platform filled with kids!!
+2. User icons only vetted if they post or comment. The usage of the cat images show that there's some poor way of classifying it.
+3. Likes on your comment shield you from bans. The comments left are often on topic and has loads of bot likes.
+
+## Final words
+
+YouTube should be a safe space for everyone to find entertaining videos. There's no place for sexual content or scams. My thoughts are that YouTube is afraid to incorrectly ban someone. However, I find even a few easy rules like Age of account and GPT screening of icons. That is the right way to think about this problem.
+
+How can we make a scammer's life as difficult as possible and make it unprofitable to scam?
