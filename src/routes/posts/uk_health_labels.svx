@@ -16,10 +16,10 @@ It operates with a traffic light system on 4 categories, Fat | Saturates | Sugar
 
 <img src='./img/label-table.png' width="400">
 
-This `Front of Packaging` labelling system is not mandatory, but is quite widespread on most items. The intention is that you can at a glance quickly choose healthier items simply by picking ones with most greens.
+This MTL(Multiple traffic light) labelling system is not mandatory, but is quite widespread on most items. The intention is that you can at a glance quickly choose healthier items simply by picking ones with most greens.
 Reality is, it's not as simple.
 
-[Here's the link to the full guidance]('https://www.food.gov.uk/sites/default/files/media/document/fop-guidance_0.pdf')
+[Here's the link to the full guidance](https://www.food.gov.uk/sites/default/files/media/document/fop-guidance_0.pdf)
 
 ## Deeper into the traffic light system
 
