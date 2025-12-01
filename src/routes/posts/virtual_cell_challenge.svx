@@ -50,8 +50,8 @@ My attempt is to leverage a simple encoder-only transformer based on the followi
 
 I never managed to get a proper validation workflow working with the validation set (which is a persistent problem amongst other participants as the control cells are different in the test sets). Hence as I was running out of time, I ended up only training via the loss function.
 
-<img src='./img/wandb_train_loss.png'>
-<img src='./img/wandb_val_loss.png'>
+<img src='./img/wandb_train_loss.png' width=600 alt='Wandb Train loss'>
+<img src='./img/wandb_val_loss.png' width =600 alt='Wandb Val loss'>
 
 On inference, I also pick random control cells from the original set. The charts look nice but the performance was not!
 

@@ -1,6 +1,5 @@
 <script>
   import { Body } from "$lib/components/Body";
-  import { Button } from "$lib/components/Button";
   let {data} = $props()
 
   let filter = $state([]);

@@ -3,7 +3,7 @@ title: "Advent of art and writing."
 tags: Writing
 first: 2025-11-27
 last: 2025-11-27
-uuid: 835a789f-0d91-4202-9c10-108e70299f0b
+uuid: ba8e6f02-1015-4b6c-92d0-4740216a031d
 ---
 
 Advent of Code is a popular coding challenge that occurs yearly based on the Advent calendar. As with the name, it's a question a day up till Christmas eve (although this year it is reduced to only 12 days).
