@@ -1,0 +1,15 @@
+---
+title: "Advent of art and writing."
+tags: Writing
+first: 2025-11-27
+last: 2025-11-27
+uuid: 835a789f-0d91-4202-9c10-108e70299f0b
+---
+
+Advent of Code is a popular coding challenge that occurs yearly based on the Advent calendar. As with the name, it's a question a day up till Christmas eve (although this year it is reduced to only 12 days).
+
+For this year I want to embark on a little art and writing journey. I pronounce the start of the #AdventOfArt and #AdventOfWriting.
+
+Each day I intend to create one piece of art and complete one piece of writing. I'm not great at either and I need to improve. It does not have to amazing or the best work. The concept is to promote creation.
+
+<img src='./img/01_art.jpg' width=600 />

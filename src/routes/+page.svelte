@@ -1,20 +1,18 @@
 <script>
   import { Body } from "$lib/components/Body";
   import { Button } from "$lib/components/Button";
-  export let data;
+  let {data} = $props()
 
-  let filter = [];
-  function tagFilter(tags) {
-    const idx = filter.indexOf(tags);
+  let filter = $state([]);
+  function tagFilter(tag) {
+      console.log('hi')
+    const idx = filter.indexOf(tag);
 
-    if (idx) {
-      filter.push(tags);
-      filter = filter;
+    if (idx === -1) {
+      filter.push(tag);
     } else {
       filter.splice(idx, 1);
-      filter = filter;
     }
-    console.log(idx, tags, filter);
   }
 </script>
 
@@ -24,11 +22,11 @@
   <h2>
     I like creating things. This is a log of all things I create and muse.
   </h2>
-  <div class="filterBar" style="display: flex;flex-direction:row; gap:10px">
-    {#each data.allTags as tags}
-      <Button on:click={tagFilter(tags)} selected>
-        <h3>{tags}</h3>
-      </Button>
+  <div class="filterBar" style="display: flex;flex-direction:row; gap:10px; ">
+    {#each data.allTags as tag}
+      <button class="button {filter.includes(tag)?'selected':''}" onclick={()=>tagFilter(tag)}    >
+        <h3>{tag}</h3>
+      </button>
     {/each}
   </div>
 
@@ -48,3 +46,15 @@
     {/if}
   {/each}
 </Body>
+
+<style>
+  .button {
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  .selected {
+    background-color: aqua;
+  }
+</style>

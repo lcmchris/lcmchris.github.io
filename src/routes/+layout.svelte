@@ -1,12 +1,14 @@
 <script>
     import { Footer } from "$lib/components/Footer";
     import { Header } from "$lib/components/Header";
+
+    let { children } = $props();
 </script>
 
 <div class="wrapper">
     <Header />
     <main class="main-blob">
-        <slot />
+        {@render children?.()}
     </main>
 
     <Footer />

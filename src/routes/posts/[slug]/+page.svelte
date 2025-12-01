@@ -1,10 +1,10 @@
 <script>
-  export let data;
+  let { data } = $props();
 </script>
 
 <article>
   <h1 style="text-align:center; font-size:24px">{data.title}</h1>
-  <svelte:component this={data.content} />
+  <data.content />
 </article>
 
 <style>
