@@ -12,4 +12,4 @@ For this year I want to embark on a little art and writing journey. I pronounce 
 
 Each day I intend to create one piece of art and complete one piece of writing. I'm not great at either and I need to improve. It does not have to amazing or the best work. The concept is to promote creation.
 
-<img src='./img/01_art.jpg' width=600 />
+<img src='./img/01_art.jpg' width=600  alt='01 Art' />

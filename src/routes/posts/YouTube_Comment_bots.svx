@@ -21,7 +21,7 @@ Even big content creators like Ludwig (6.4m subs) get this issue.
 
 As you can see, the comments themselves are generally quite on topic and has a lot of likes. However, if you zoom in a look closely, what you see is not what you see. Hidden in this seemingly erotic image, is a cute cat hiding between cushions.
 
-<img src='./YouTube_Comment_bots_img/10.jpg' alt='Image of a cat' width="400">
+<img src='./YouTube_Comment_bots_img/10.jpg' alt='Cat' width="400">
 
 If you ask ChatGPT what this is, this is their answer.
 

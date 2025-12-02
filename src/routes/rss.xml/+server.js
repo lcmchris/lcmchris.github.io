@@ -64,7 +64,3 @@ ${posts
   )
   .join("")}</feed>
 `;
-
-export const fallback = async ({ request }) => {
-  return text(`I caught your ${request.method} request!`);
-};

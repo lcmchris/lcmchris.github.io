@@ -10,11 +10,11 @@ Health is an important aspect of life. More and more people are becoming conscio
 
 This leads me on to my latest obsession. Reading nutrition labels. In particular, the ones on the front of the packaging. For those not in the UK, this is what is looks like.
 
-<img src='./img/nutri_label.jpg' width="400">
+<img src='./img/nutri_label.jpg' width="400" alt='nutri label'>
 
 It operates with a traffic light system on 4 categories, Fat | Saturates | Sugars | Salt. Being Red/Yellow/Green is based on the daily reference intake.
 
-<img src='./img/label-table.png' width="400">
+<img src='./img/label-table.png' width="400" alt='label table'>
 
 This MTL(Multiple traffic light) labelling system is not mandatory, but is quite widespread on most items. The intention is that you can at a glance quickly choose healthier items simply by picking ones with most greens.
 Reality is, it's not as simple.
