@@ -1,8 +1,8 @@
 ---
 title: "Advent of art and writing."
 tags: Writing
-first: 2025-11-27
-last: 2025-11-27
+first: 2025-12-01
+last: 2025-12-01
 uuid: ba8e6f02-1015-4b6c-92d0-4740216a031d
 ---
 
