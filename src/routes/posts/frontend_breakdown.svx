@@ -35,8 +35,6 @@ As websites get increasingly more and more complex there was a need to make deve
 
 Now when you write .jsx or .svelte files, these files cannot be read by the browser. Recall that the browser only understands html, css and js. This means that the files has to be converted into these files. This is where a transplier (transformation compiler) come in. It basically converts all your .jsx files into readable js. Notice when you generate a build, all the build files are js/css/html files!
 
-![alt text](/img/dist_folder.png "dist folder")
-
 # Performance
 
 We all want to serve our users better and performance is a huge deal. One of the laws on ux is to ensure less than [400 ms](https://lawsofux.com/doherty-threshold/). This leads to focuses on different problems and clever people solving them in different ways.
@@ -52,8 +50,6 @@ This runs the transplier and minifiers. Popular bunndlers are rollup and webpack
 With frameworks comes with a lot of js. This means the files served get large. For users with limited bandwidth this can cause a very slow website. Minifiers. All text files are made up of bytes. The less characters, the less bytes. Minifiers do this by removing all whitespaces, comments, shortens variable names and shortens functions. It's kind of like performance linter!
 
 If you check your dist files, they are almost unreadable through this process but is actually still your code.
-
-![alt text](/img/minifiedjs.png "minified js")
 
 ## Rendering strategies. Performance SSG, CSR and SSR.
 

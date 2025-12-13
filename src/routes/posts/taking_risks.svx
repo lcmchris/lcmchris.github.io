@@ -1,0 +1,27 @@
+---
+title: "About taking risks"
+tags: Writing
+first: 2025-12-12
+last: 2025-12-12
+uuid: 7396f436-4a49-47b2-a43a-042aa86bd9fd
+---
+
+## What is risk taking
+
+In this day and age, taking risks is what all the cool kids do. Everyone wants to be a founder or be part of a start up or run a crypto exchange. Even going for big tech earning 6 figures is considered a `safe choice`. Why has this point of view become the norm? I think that just having general wealth being a lot higher has helped. Being born in a first world country nowadays is already a big advantage. You will be unlikely to suffer from total poverty where even finding food and shelter is hard. This inherently reduces the size of risk people are taking. The rich kid not working a mundane job is not really a risk taker as his downside is nil.
+
+In my definition:
+
+Big risk = Only if you have a big penalty on failure. The penalty also have to be meaningful. I think the range of middle class has expanded. Middle classes has a decent house, car and can afford 1 holiday a year. With quite a wide range of income, there isn't much of a material difference.
+
+In this definition then, maybe our risk appetite hasn't changed much as losing is just not as what it used to be.
+
+## Is being a risk taker trained or learnt?
+
+If being a risk taker is desirable, is it a skill to learn or is it just an innate attribute you are born with? In my opinion it actually depends on ignorance. As a child, when you have little experiences, you would skateboard, jump into swimming pools and in general be a bit more fearless. This fearlessness or lack of long-term calculations, can help in being more risky. Say for quitting a stable job for a riskier startup option, it helps if you do not factor in all the possible outcomes. Blocking of the high probability of failure
+
+....
+<img src='./img/12_1_art.jpg' width=200 alt='Sketches'>
+<img src='./img/12_2_art.jpg' width=200 alt='Sketches'>
+<img src='./img/12_3_art.jpg' width=200 alt='Sketches'>
+<img src='./img/12_4_art.jpg' width=200 alt='Sketches'>
