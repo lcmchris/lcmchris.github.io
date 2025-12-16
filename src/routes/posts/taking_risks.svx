@@ -24,4 +24,4 @@ If being a risk taker is desirable, is it a skill to learn or is it just an inna
 <img src='./img/12_1_art.jpg' width=200 alt='Sketches'>
 <img src='./img/12_2_art.jpg' width=200 alt='Sketches'>
 <img src='./img/12_3_art.jpg' width=200 alt='Sketches'>
-<img src='./img/12_4_art.jpg' width=200 alt='Sketches'>
+<img src='./img/12_4_art.jpeg' width=200 alt='Sketches'>
