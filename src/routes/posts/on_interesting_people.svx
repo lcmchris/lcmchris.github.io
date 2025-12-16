@@ -1,9 +1,9 @@
 ---
-title: "About taking risks"
+title: "On interesting writers"
 tags: Writing
-first: 2025-12-12
-last: 2025-12-12
-uuid: 7396f436-4a49-47b2-a43a-042aa86bd9fd
+first: 2025-12-15
+last: 2025-12-15
+uuid: a2ff1d0b-4b20-44e4-bf4a-a791b4f26cc8
 ---
 
 On interesting people who have written.
