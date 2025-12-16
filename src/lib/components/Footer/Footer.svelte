@@ -18,10 +18,9 @@
 </footer>
 
 <style>
-  /* footer {
-    display: flex;
-    justify-content: center;
-  } */
+  footer {
+    width: 100%;
+  }
   nav {
     display: flex;
     justify-content: center;

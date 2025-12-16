@@ -18,5 +18,7 @@
     flex-direction: column;
     flex-grow: 1;
     padding: 2rem 1rem;
+    align-items: center;
   }
+
 </style>

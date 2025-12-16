@@ -18,10 +18,15 @@
     .main-blob {
         flex-grow: 1;
         background-color: var(--primary);
+        display: flex;
+        justify-content: center;
     }
+
     .wrapper {
         display: flex;
         flex-direction: column;
+        align-items: center;
         height: 100dvh;
     }
+   
 </style>

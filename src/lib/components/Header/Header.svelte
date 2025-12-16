@@ -9,6 +9,9 @@
 </header>
 
 <style>
+  header{
+    width: 100%;
+  }
   nav {
     display: flex;
     justify-content: space-between;
