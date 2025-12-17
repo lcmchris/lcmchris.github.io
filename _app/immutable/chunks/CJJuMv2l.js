@@ -1,0 +1,1 @@
+import{f as a,a as o}from"./Bx5urKML.js";import"./DbovNYc0.js";const r={title:"Book Review: Zero to One",tags:"Review",first:"2025-03-26T00:00:00.000Z",last:"2025-03-26T00:00:00.000Z",uuid:"31ee9ed5-dbb9-4d8b-afea-b0e7892716bc"},{title:f,tags:m,first:p,last:n,uuid:u}=r;var s=a("<p>Dummy</p>");function l(t){var e=s();o(t,e)}export{l as default,r as metadata};

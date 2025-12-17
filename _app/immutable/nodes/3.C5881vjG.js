@@ -1,1 +1,0 @@
-import{f as a,a as p}from"../chunks/BtLMt5hf.js";import"../chunks/CDN6IgsT.js";import{B as n}from"../chunks/DJDH_Cou.js";var m=a("<p>My current interests are programming, writing and art.</p>");function c(r){n(r,{children:(o,e)=>{var t=m();p(o,t)}})}export{c as component};
