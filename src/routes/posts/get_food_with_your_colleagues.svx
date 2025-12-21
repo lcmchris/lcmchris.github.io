@@ -14,4 +14,4 @@ The road to the restaurant or the local supermarket for a meal deal is perfect f
 
 It is also, of course, a great time to talk bs and build camaraderie. In an age of remote work and WFH, I hope this human touch does not get lost.
 
-<img src='./img/16_art.jpg' alt='Benoit Blanc: Day 16' width=400 >
+<img src='./img/16_art.jpg' alt='Benoit Blanc: Day 16' width=70% sizes="(max-width: 200px) " >

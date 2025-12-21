@@ -1,6 +1,6 @@
 ---
 title: "Review: Inside No. 9 Stage Fright"
-tags: Commentary
+tags: Review
 first: 2025-03-04
 last: 2025-03-04
 uuid: e7c04f8e-c076-4f92-8763-71640eea5506

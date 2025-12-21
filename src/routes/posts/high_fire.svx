@@ -1,6 +1,6 @@
 ---
 title: "Review: Highfire by Eoin Colfer"
-tags: Commentary
+tags: Review
 first: 2025-03-02
 last: 2025-03-02
 uuid: 96dc7558-6231-432a-932f-afbfc27bf115

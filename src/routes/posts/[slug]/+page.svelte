@@ -10,13 +10,7 @@
 <style>
   article {
     padding: 1rem;
-    
     max-width: 800px;
   }
-  @media (min-width: 800px) {
-    article {
-      padding: 2rem;
-      
-    }
-  }
+
 </style>

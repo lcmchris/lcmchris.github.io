@@ -3,7 +3,7 @@
 
 <header>
   <nav>
-    <a href="/"> <h1>Chris' Log</h1> </a>
+    <a href="/"> <h1>Chris' Blog</h1> </a>
     <a href="/about">About me</a>
   </nav>
 </header>
