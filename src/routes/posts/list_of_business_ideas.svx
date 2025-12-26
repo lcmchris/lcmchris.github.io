@@ -18,6 +18,8 @@ AI Font generation
 ### Potential
 
 - Booking platform for Dentist
+- Vivino for coffee snobs
+- SOPs management system
 -
 
 TBC
